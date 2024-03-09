@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Nithin-Portfolio/static/css/main.72ff0c03.css",
+    "main.js": "/Nithin-Portfolio/static/js/main.4c89b646.js",
+    "static/media/react.png": "/Nithin-Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/Nithin-Portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/Nithin-Portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/logo1.png": "/Nithin-Portfolio/static/media/logo1.7ed42caf1761f7568a18.png",
+    "static/media/github.png": "/Nithin-Portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/Nithin-Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Nithin-Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Nithin-Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/firebase.png": "/Nithin-Portfolio/static/media/firebase.209703cedf1b1a96bc52.png",
+    "static/media/javascript.png": "/Nithin-Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Nithin-Portfolio/index.html",
+    "main.72ff0c03.css.map": "/Nithin-Portfolio/static/css/main.72ff0c03.css.map",
+    "main.4c89b646.js.map": "/Nithin-Portfolio/static/js/main.4c89b646.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72ff0c03.css",
+    "static/js/main.4c89b646.js"
+  ]
+}
